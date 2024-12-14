@@ -72,5 +72,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para 
 
 ## Autor
 
-Criado por IagoM. Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato!
+Criado por IagoG. Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato!
 
